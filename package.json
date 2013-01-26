@@ -1,0 +1,12 @@
+{
+  "name": "cosmonaut-harness",
+  "version": "0.0.1",
+  "author": "dropdownmenu",
+  "license": "MIT",
+  "dependencies": {
+    "three": "0.55.x"
+  },
+  "devDependencies": {
+
+  }
+}
