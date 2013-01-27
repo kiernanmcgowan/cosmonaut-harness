@@ -4,7 +4,8 @@
   "author": "dropdownmenu",
   "license": "MIT",
   "dependencies": {
-    "three": "0.55.x"
+    "three": "0.55.x",
+    "backbone": "1.4.x"
   },
   "devDependencies": {
 
