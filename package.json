@@ -6,7 +6,8 @@
   "dependencies": {
     "three": "0.55.x",
     "underscore": "1.4.x",
-    "backbone": "0.9.x"
+    "backbone": "0.9.x",
+    "cosmonaut-lifesupport": "*"
   },
   "devDependencies": {
 
