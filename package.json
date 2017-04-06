@@ -4,9 +4,9 @@
   "author": "dropdownmenu",
   "license": "MIT",
   "dependencies": {
-    "three": "0.55.x",
-    "underscore": "1.4.x",
-    "backbone": "0.9.x",
+    "three": "~0.84.0",
+    "underscore": "~1.8.3",
+    "backbone": "~1.3.3",
     "cosmonaut-lifesupport": "*"
   },
   "devDependencies": {
